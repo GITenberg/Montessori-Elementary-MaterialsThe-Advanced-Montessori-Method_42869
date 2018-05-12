@@ -22,6 +22,8 @@ creator:
     - http://it.wikipedia.org/wiki/Maria_Montessori
     - http://en.wikipedia.org/wiki/Maria_Montessori
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42869#Montessori-Elementary-MaterialsThe-Advanced-Montessori-Method
 gutenberg_issued: '2013-06-04'
 gutenberg_type: Text
 identifiers:
