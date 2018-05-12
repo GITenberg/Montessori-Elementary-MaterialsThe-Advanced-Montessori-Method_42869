@@ -1,0 +1,37 @@
+_repo: Montessori-Elementary-MaterialsThe-Advanced-Montessori-Method_42869
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Livingston, Arthur
+    alias: Livingston, Albert Arthur
+    birthdate: 1883
+    deathdate: 1944
+    gutenberg_agent_id: '34005'
+    url: http://www.gutenberg.org/2009/agents/34005
+covers:
+- cover_type: archival
+  image_path: 42869-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Montessori, Maria
+    birthdate: 1870
+    deathdate: 1952
+    gutenberg_agent_id: '26701'
+    url: http://www.gutenberg.org/2009/agents/26701
+    wikipedia:
+    - http://it.wikipedia.org/wiki/Maria_Montessori
+    - http://en.wikipedia.org/wiki/Maria_Montessori
+description: ''
+gutenberg_issued: '2013-06-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Montessori method of education'
+title: "The Montessori Elementary Material\r\nThe Advanced Montessori Method"
+url: http://www.gutenberg.org/ebooks/42869
